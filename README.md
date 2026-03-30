@@ -21,4 +21,8 @@ Learning Outcomes:
 This project will help students improve their digital skills, understand online safety, learn professional communication, and become responsible digital citizens.
 
 My Professional Profile Links:
+Github- https://github.com/amatulhasanzaidi
+Linkedin- https://www.linkedin.com/in/amatul-hasan-zaidi-053707397/
+Stackoverflow- https://stackoverflow.com/users/32559484/amatul-hasan-zaidi
+Google form link- https://forms.gle/cfPdQ1PoLqUCNVZh6
 
